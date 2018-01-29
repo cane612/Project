@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+    </style>
+    <style name="button_style">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">#4997d2</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="text_view">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textColor">#0a0909</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>

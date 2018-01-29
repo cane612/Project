@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="imageXandO">
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:onClick">gameLogic</item>
+        <item name="android:background">#145353</item>
+    </style>
+
+</resources>

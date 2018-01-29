@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Iks-oks</string>
+    <string name="Text_Box_Welcome">Welcome to the Game of Tic Tak Toe !</string>
+    <string name="Play_game_Button">Play game</string>
+    <string name="About_Game_Button">About Game</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="instruction_textview">Iks - Oks - uputstvo: </string>
+    <string name="About_the_game">
+
+        Hteo sam da napomenem, da sam izabrao nacin da u glavnoj aktivnosti igre u xml ne pozicioniram elemente
+        u grid layout zato sto ovaj Android studio u tom layout ima mnogo bagovi.
+        Relative Layout i nije bio potreban ali sam tako odlucio da dodam pozadinsku boju! Takodje ALERT_DIALOG je
+        osnovni i kada kliknete van njega nista se ne desava da znate da sam mogao da stavim neki button koji ce me vratiti
+        na pocetnu aktivnost! Uzimajuci ovo u obzir nadam se da ce vam se svideti aplikacija.
+
+
+    </string>
+</resources>
